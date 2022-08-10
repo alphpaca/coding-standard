@@ -20,7 +20,8 @@
         "vimeo/psalm": "^4.26",
         "psalm/plugin-symfony": "^3.1",
         "weirdan/doctrine-psalm-plugin": "^2.3",
-        "psalm/plugin-phpunit": "^0.17.0"
+        "psalm/plugin-phpunit": "^0.17.0",
+        "rector/rector": "^0.13.10"
     },
     "autoload": {
         "psr-4": {
