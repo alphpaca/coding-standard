@@ -21,7 +21,8 @@
         "psalm/plugin-symfony": "^3.1",
         "weirdan/doctrine-psalm-plugin": "^2.3",
         "psalm/plugin-phpunit": "^0.17.0",
-        "rector/rector": "^0.13.10"
+        "rector/rector": "^0.13.10",
+        "symplify/easy-coding-standard": "^11.1"
     },
     "autoload": {
         "psr-4": {
