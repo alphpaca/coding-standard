@@ -1,0 +1,5 @@
+#!/bin/sh
+php ../../vendor/bin/rector -n
+php ../../vendor/bin/ecs check src
+php ../../vendor/bin/phpstan analyze src
+php ../../vendor/bin/psalm

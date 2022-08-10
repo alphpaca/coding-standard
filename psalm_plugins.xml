@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <pluginClass class="Psalm\SymfonyPsalmPlugin\Plugin">
+        <containerXml>var/cache/dev/App_KernelDevDebugContainer.xml</containerXml>
+    </pluginClass>
+    <pluginClass class="Weirdan\DoctrinePsalmPlugin\Plugin"/>
+    <pluginClass class="Psalm\PhpUnitPlugin\Plugin"/>
+</plugins>
