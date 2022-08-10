@@ -1,0 +1,5 @@
+parameters:
+    level: 9
+
+    excludes_analyse:
+        - 'tests/Application/**/*.php'
